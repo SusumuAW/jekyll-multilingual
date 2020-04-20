@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Fastai2 First post"
+ref: fastai
+categories: jekyll update
+lang: en
+---
+
 I just finished the 02_production section of fastbook and successfully modify the codes to use MR images, instead of images of bears used in this tutorial (https://github.com/fastai/fastbook).
 
 There are several points that I want to mention because I had a hard time to set up the environment. The fastbook recommended to use one of the online services with free GPU times. I tested PaperSpace Gradient. This was very handy because fastai environment is already set up and ready to use. However, I decided to use my workstation, in which I just installed Nvidia 2080ti. Then, the fastbook notebook doesn't run at the first cell because of many missing modules. After many tries and errors, I finally got it working with the following import statements;
