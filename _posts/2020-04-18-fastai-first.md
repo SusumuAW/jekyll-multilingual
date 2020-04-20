@@ -4,6 +4,7 @@ title:  "Fastai2 First post"
 ref: fastai
 categories: jekyll update
 lang: en
+
 ---
 
 I just finished the 02_production section of fastbook and successfully modify the codes to use MR images, instead of images of bears used in this tutorial (https://github.com/fastai/fastbook).
@@ -19,6 +20,7 @@ from fastcore import *
 from utils import *  
 from fastai2.vision.widgets import *  
 from fastai2.data import *  
+
 ---
 
 Please note that in the original fastbook, the first cell is;
@@ -26,6 +28,7 @@ Please note that in the original fastbook, the first cell is;
 ---
 from utils import *  
 from fastai2.vision.widgets import *  
+
 ---
 
 Apparently, I need to not only download many Python modules with "conda install xxx" or "pip3 install xxx", but also download python files from fastai2 and fastcore from github, as you can see that I needed to specify the path to fastai2 and fastcore in my computer directories.
