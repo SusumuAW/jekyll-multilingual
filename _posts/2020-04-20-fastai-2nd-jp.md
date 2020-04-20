@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fastai2 2nd post"
+title:  "Fastai2 ２回目　ポスト"
 ref: fastai
 categories: jekyll update
 lang: jp
