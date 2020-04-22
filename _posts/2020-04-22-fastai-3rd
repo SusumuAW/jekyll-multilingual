@@ -1,0 +1,35 @@
+I just finished 04_mnist_basics. This is a really good section to learn the basics of deep learning.
+After this section, deep learning gets dismystified and it makes us realize that it actually consists of a simple math and concepts.
+
+However, I also feel that many readers may get lost somewhere in the middle of the section.
+This is partly because it is dense; there is so much information covered in this section.
+But more importantly, it assumes that we already have a good grasp of computer languages in general and, of course, Python.
+
+Studying a new field of science is just like learning a new language, in which there are two types of common hurdles. One is vocabulary and the other is the concept of sentences (such as grammar).
+The most important thing about learning a new languate is, we can't simply understand it one-by-one and keep going. Rather, we need repeated exposures and keep learning the same things from different angles.
+For example, we can learn the meaning of a specific word easily by looking up a dictionary. However, sadly, our brain can't get it by just looking up a dictionary once. We need to get exposed to the same word repeatedly in different contexts before it becomes so natural that we don't have to even think about it.
+
+This is also somewhat akin to playing instruments or doing sports. To move to a next phase, we need to keep learning the current phase such that it gets baked in our brain.
+
+Likewise, when I'm going through the section 4, there are many vacabularies like "abstract", "class", "function", etc. Each has meaning as English word, but within this context, it has to evoke specific concepts in computer languages in our brain.
+Otherwise, sentences that include these words do not make sense.
+
+At the end of the section, the authors added paragraphs titled "Jargon recap." This discusses a similar topic, in which they explained what "activations" and "parameters" mean in deep learning.
+We all know what they mean in English, without knowing their specific meaning in this context, we can't really understand what this tutorial secitoin is talking about.
+
+As a teacher in a university, I am often asked, "Susumu, I want to learn about XXX and what is the best textbook" or "which textbook did you use to learn XXX", and I find myself can't answer them.
+Think about it. Do you expect someone can answer "which textbook should we use to learn English" or "what is the best textbook to play pianno"?
+
+Many think that learning science is a logical process. This would lead to a notion that "we can learn once, understand once, and master it." 
+Many think that learning science is done by cerebral cortex and as opposed to wiring in cerebellum, which is based on low-intellectual repeated practices.
+However, learning scientific concept is no different from learning how to throw balls.
+
+I think this misconception often leads to a conclusion like "oh, this is too difficult for me" or "I'm not good enough to understand it."
+
+I guess what I want to say is, if readers get lost in the middle of this tutorial section, there is nothing to worry about it.
+It means you simply started to learn a new language and you need to repeatedly look up a dictionary.
+
+By saying "dictionary" here, probably the mosted needed one is getting used to Python and, hopefully, more general concepts about computer languages.
+Bad news is, it takes time, just like learning piano. As long as you are persistent, you will be fine.
+
+So, good luck!
